@@ -1,0 +1,6 @@
+names:
+- card
+nc: 1
+path: yolo_training_data
+train: E:\YuGiOh Duel Table\yolo_training_data\images\train
+val: E:\YuGiOh Duel Table\yolo_training_data\images\val

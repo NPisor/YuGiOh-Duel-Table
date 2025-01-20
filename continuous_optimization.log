@@ -1,0 +1,382 @@
+2025-01-17 11:38:13,812 - INFO - Starting continuous optimization...
+2025-01-17 11:38:13,812 - INFO - Starting a new optimization iteration...
+2025-01-17 11:38:37,253 - INFO - Starting continuous optimization...
+2025-01-17 11:38:37,253 - INFO - Starting a new optimization iteration...
+2025-01-17 11:39:46,401 - INFO - Starting continuous optimization...
+2025-01-17 11:39:46,401 - INFO - Starting a new optimization iteration...
+2025-01-17 11:39:48,059 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:39:49,453 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:39:50,955 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:39:52,342 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:39:53,724 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:39:53,724 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:39:53,724 - INFO - Starting a new optimization iteration...
+2025-01-17 11:39:55,121 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:39:56,489 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:39:58,019 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:39:59,521 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:01,012 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:01,012 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:40:01,012 - INFO - Starting a new optimization iteration...
+2025-01-17 11:40:02,464 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:03,931 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:05,353 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:06,905 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:08,474 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:08,474 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:40:08,474 - INFO - Starting a new optimization iteration...
+2025-01-17 11:40:09,935 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:11,426 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:13,006 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:14,556 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:15,999 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:15,999 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:40:15,999 - INFO - Starting a new optimization iteration...
+2025-01-17 11:40:17,576 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:19,024 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:20,561 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:21,970 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:23,390 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:23,390 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:40:23,390 - INFO - Starting a new optimization iteration...
+2025-01-17 11:40:24,791 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:26,322 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:27,772 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:29,325 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:30,909 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:30,909 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:40:30,909 - INFO - Starting a new optimization iteration...
+2025-01-17 11:40:32,518 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:33,929 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:35,311 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:36,832 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:38,200 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:38,200 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:40:38,200 - INFO - Starting a new optimization iteration...
+2025-01-17 11:40:39,591 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:41,012 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:42,418 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:43,951 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:45,559 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:45,559 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:40:45,559 - INFO - Starting a new optimization iteration...
+2025-01-17 11:40:47,163 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:48,731 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:40:50,036 - INFO - Optimization process stopped by user.
+2025-01-17 11:40:50,040 - INFO - Optimization completed.
+2025-01-17 11:42:03,805 - INFO - Starting continuous optimization...
+2025-01-17 11:42:03,805 - INFO - Starting a new optimization iteration...
+2025-01-17 11:42:05,185 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:06,448 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:07,828 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:09,170 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:10,641 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:10,641 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:42:10,641 - INFO - Starting a new optimization iteration...
+2025-01-17 11:42:11,898 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:13,160 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:14,588 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:16,017 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:17,271 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:17,271 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:42:17,271 - INFO - Starting a new optimization iteration...
+2025-01-17 11:42:18,562 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:19,802 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:21,227 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:22,509 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:23,899 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:42:23,899 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:42:23,899 - INFO - Starting a new optimization iteration...
+2025-01-17 11:42:24,220 - INFO - Optimization process stopped by user.
+2025-01-17 11:42:24,223 - INFO - Optimization completed.
+2025-01-17 11:43:03,575 - INFO - Starting continuous optimization...
+2025-01-17 11:43:03,575 - INFO - Starting a new optimization iteration...
+2025-01-17 11:43:04,934 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:06,264 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:07,511 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:08,956 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:10,331 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:10,331 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:43:10,331 - INFO - Starting a new optimization iteration...
+2025-01-17 11:43:11,691 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:13,027 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:14,295 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:15,588 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:17,074 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:17,074 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:43:17,074 - INFO - Starting a new optimization iteration...
+2025-01-17 11:43:18,355 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:19,664 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:43:20,533 - INFO - Optimization process stopped by user.
+2025-01-17 11:43:20,536 - INFO - Optimization completed.
+2025-01-17 11:52:59,957 - INFO - Starting continuous optimization...
+2025-01-17 11:52:59,957 - INFO - Starting a new optimization iteration...
+2025-01-17 11:53:01,503 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:53:02,824 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:53:04,180 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:53:04,211 - INFO - Optimization process stopped by user.
+2025-01-17 11:53:04,216 - INFO - Optimization completed.
+2025-01-17 11:55:40,541 - INFO - Starting continuous optimization...
+2025-01-17 11:55:40,541 - INFO - Starting a new optimization iteration...
+2025-01-17 11:55:42,295 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:55:43,959 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:55:45,435 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:55:45,680 - INFO - Optimization process stopped by user.
+2025-01-17 11:55:45,681 - INFO - Optimization completed.
+2025-01-17 11:57:24,939 - INFO - Starting continuous optimization...
+2025-01-17 11:57:24,939 - INFO - Starting a new optimization iteration...
+2025-01-17 11:57:26,348 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:27,863 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:29,134 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:30,485 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:31,860 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:31,860 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:57:31,860 - INFO - Starting a new optimization iteration...
+2025-01-17 11:57:33,109 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:34,562 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:35,964 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:37,487 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:38,811 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:38,811 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:57:38,811 - INFO - Starting a new optimization iteration...
+2025-01-17 11:57:40,252 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:41,659 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:43,027 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:44,466 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 3, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:57:45,141 - INFO - Optimization process stopped by user.
+2025-01-17 11:57:45,142 - INFO - Optimization completed.
+2025-01-17 11:58:32,846 - INFO - Starting continuous optimization...
+2025-01-17 11:58:32,846 - INFO - Starting a new optimization iteration...
+2025-01-17 11:58:34,383 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:35,759 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:37,313 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:38,865 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:40,430 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:40,430 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:58:40,430 - INFO - Starting a new optimization iteration...
+2025-01-17 11:58:41,784 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:43,299 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:44,847 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:46,397 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:47,863 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:47,863 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:58:47,863 - INFO - Starting a new optimization iteration...
+2025-01-17 11:58:49,420 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:50,866 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:52,402 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:53,825 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:55,252 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:55,252 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:58:55,252 - INFO - Starting a new optimization iteration...
+2025-01-17 11:58:56,691 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:58,117 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:58:59,701 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:59:01,213 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:59:02,660 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 11:59:02,660 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 11:59:02,660 - INFO - Starting a new optimization iteration...
+2025-01-17 11:59:03,896 - INFO - Optimization process stopped by user.
+2025-01-17 11:59:03,901 - INFO - Optimization completed.
+2025-01-17 11:59:57,619 - INFO - Starting continuous optimization...
+2025-01-17 11:59:57,619 - INFO - Starting a new optimization iteration...
+2025-01-17 11:59:59,189 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:00,753 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:02,275 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:03,732 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:05,127 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:05,127 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:00:05,127 - INFO - Starting a new optimization iteration...
+2025-01-17 12:00:06,716 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:08,182 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:09,705 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:11,230 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:12,601 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:12,601 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:00:12,601 - INFO - Starting a new optimization iteration...
+2025-01-17 12:00:14,035 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:15,559 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:16,932 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:18,477 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:00:18,746 - INFO - Optimization process stopped by user.
+2025-01-17 12:00:18,750 - INFO - Optimization completed.
+2025-01-17 12:03:16,601 - INFO - Starting continuous optimization...
+2025-01-17 12:03:16,601 - INFO - Starting a new optimization iteration...
+2025-01-17 12:05:04,111 - INFO - Starting continuous optimization...
+2025-01-17 12:05:04,111 - INFO - Starting a new optimization iteration...
+2025-01-17 12:05:19,574 - INFO - Starting continuous optimization...
+2025-01-17 12:05:19,574 - INFO - Starting a new optimization iteration...
+2025-01-17 12:05:22,225 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:05:24,598 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:05:27,557 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:06:50,464 - INFO - Starting continuous optimization...
+2025-01-17 12:06:50,464 - INFO - Starting a new optimization iteration...
+2025-01-17 12:07:19,577 - INFO - Starting continuous optimization...
+2025-01-17 12:07:19,577 - INFO - Starting a new optimization iteration...
+2025-01-17 12:07:21,184 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:07:22,450 - INFO - Optimization process stopped by user.
+2025-01-17 12:07:22,453 - INFO - Optimization completed.
+2025-01-17 12:07:44,147 - INFO - Starting continuous optimization...
+2025-01-17 12:07:44,147 - INFO - Starting a new optimization iteration...
+2025-01-17 12:07:45,760 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:07:47,161 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:07:48,563 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:07:48,948 - INFO - Optimization process stopped by user.
+2025-01-17 12:07:48,953 - INFO - Optimization completed.
+2025-01-17 12:08:07,144 - INFO - Starting continuous optimization...
+2025-01-17 12:08:07,144 - INFO - Starting a new optimization iteration...
+2025-01-17 12:08:09,189 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:08:11,056 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:08:13,130 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:08:14,880 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:08:16,774 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:08:16,774 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:08:16,774 - INFO - Starting a new optimization iteration...
+2025-01-17 12:08:18,688 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:08:20,583 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:08:22,369 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:08:24,562 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:08:25,008 - INFO - Optimization process stopped by user.
+2025-01-17 12:08:25,013 - INFO - Optimization completed.
+2025-01-17 12:10:30,696 - INFO - Starting continuous optimization...
+2025-01-17 12:10:30,696 - INFO - Starting a new optimization iteration...
+2025-01-17 12:10:32,235 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:33,665 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:35,213 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:36,798 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:38,595 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:38,595 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:10:38,595 - INFO - Starting a new optimization iteration...
+2025-01-17 12:10:40,058 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:41,452 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:43,261 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:44,834 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:46,357 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:46,357 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:10:46,357 - INFO - Starting a new optimization iteration...
+2025-01-17 12:10:47,895 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:49,468 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:51,292 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:52,750 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:54,203 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:54,203 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:10:54,203 - INFO - Starting a new optimization iteration...
+2025-01-17 12:10:55,750 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:57,578 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:10:59,069 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:11:00,676 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:11:02,121 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:11:02,121 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:11:02,121 - INFO - Starting a new optimization iteration...
+2025-01-17 12:11:02,636 - INFO - Optimization process stopped by user.
+2025-01-17 12:11:02,640 - INFO - Optimization completed.
+2025-01-17 12:12:24,531 - INFO - Starting continuous optimization...
+2025-01-17 12:12:24,531 - INFO - Starting a new optimization iteration...
+2025-01-17 12:12:26,421 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:27,826 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:29,222 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:30,762 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:32,300 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:32,300 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:12:32,300 - INFO - Starting a new optimization iteration...
+2025-01-17 12:12:33,849 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:35,231 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:36,635 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:38,433 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:39,969 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:39,969 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:12:39,969 - INFO - Starting a new optimization iteration...
+2025-01-17 12:12:41,367 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:42,906 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:44,766 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:46,214 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:47,814 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:47,814 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:12:47,814 - INFO - Starting a new optimization iteration...
+2025-01-17 12:12:49,470 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:51,015 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:12:51,293 - INFO - Optimization process stopped by user.
+2025-01-17 12:12:51,296 - INFO - Optimization completed.
+2025-01-17 12:13:54,291 - INFO - Starting continuous optimization...
+2025-01-17 12:13:54,291 - INFO - Starting a new optimization iteration...
+2025-01-17 12:13:55,757 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:13:57,100 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:13:58,480 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:13:59,908 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:01,325 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:01,325 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:14:01,325 - INFO - Starting a new optimization iteration...
+2025-01-17 12:14:02,783 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:04,190 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:05,698 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:07,232 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:08,609 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:08,609 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:14:08,609 - INFO - Starting a new optimization iteration...
+2025-01-17 12:14:10,082 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:11,564 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:12,943 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:14,320 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:15,739 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:15,739 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:14:15,739 - INFO - Starting a new optimization iteration...
+2025-01-17 12:14:17,201 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:14:18,069 - INFO - Optimization process stopped by user.
+2025-01-17 12:14:18,073 - INFO - Optimization completed.
+2025-01-17 12:15:37,403 - INFO - Starting continuous optimization...
+2025-01-17 12:15:37,403 - INFO - Starting a new optimization iteration...
+2025-01-17 12:15:39,168 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:15:40,707 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:15:42,432 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:15:43,890 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:15:45,342 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:15:45,342 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:15:45,342 - INFO - Starting a new optimization iteration...
+2025-01-17 12:15:47,113 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:15:48,546 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:15:50,223 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:16:55,250 - INFO - Starting continuous optimization...
+2025-01-17 12:16:55,250 - INFO - Starting a new optimization iteration...
+2025-01-17 12:16:56,953 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:16:58,431 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:16:59,824 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:17:01,393 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:17:02,916 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:17:02,916 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:17:02,916 - INFO - Starting a new optimization iteration...
+2025-01-17 12:17:04,306 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:17:05,880 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:17:07,368 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:17:08,931 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:17:10,173 - INFO - Optimization process stopped by user.
+2025-01-17 12:17:10,178 - INFO - Optimization completed.
+2025-01-17 12:18:29,423 - INFO - Starting continuous optimization...
+2025-01-17 12:18:29,423 - INFO - Starting a new optimization iteration...
+2025-01-17 12:18:30,883 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:18:32,363 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:18:33,776 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:18:35,156 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:18:36,598 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:18:36,598 - INFO - Completed an iteration with parameters: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}
+2025-01-17 12:18:36,598 - INFO - Starting a new optimization iteration...
+2025-01-17 12:18:36,980 - INFO - Optimization process stopped by user.
+2025-01-17 12:18:36,983 - INFO - Optimization completed.
+2025-01-17 12:19:34,552 - INFO - Starting continuous optimization...
+2025-01-17 12:19:34,552 - INFO - Starting a new optimization iteration...
+2025-01-17 12:20:21,232 - INFO - Starting continuous optimization...
+2025-01-17 12:20:21,232 - INFO - Starting a new optimization iteration...
+2025-01-17 12:20:23,035 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:20:24,680 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:20:26,306 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:20:27,899 - INFO - Best params: {'blur_ksize': 11, 'unsharp_weight': 2.69, 'threshold_block_size': 1, 'threshold_c': 1, 'canny_thresh1': 180, 'canny_thresh2': 260}, Confidence: 0, Detected: 
+2025-01-17 12:22:28,490 - INFO - Starting webcam OCR processing...
+2025-01-17 12:23:53,621 - INFO - Starting webcam OCR processing...
+2025-01-17 12:33:52,079 - INFO - Starting webcam OCR processing...
+2025-01-17 12:37:35,697 - INFO - Starting webcam OCR processing...
+2025-01-17 12:37:57,359 - INFO - Webcam OCR processing completed.
+2025-01-17 12:37:57,359 - INFO - Starting continuous optimization...
+2025-01-17 12:38:31,650 - INFO - Starting webcam OCR processing...
+2025-01-17 12:39:18,348 - INFO - Webcam OCR processing completed.
+2025-01-17 12:39:18,348 - INFO - Starting continuous optimization...
+2025-01-17 12:40:05,957 - INFO - Starting webcam OCR processing...
+2025-01-17 12:41:27,115 - INFO - Webcam OCR processing completed.
+2025-01-17 12:41:27,115 - INFO - Starting continuous optimization...
